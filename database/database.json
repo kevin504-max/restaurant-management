@@ -1,0 +1,16 @@
+{
+  "user": [
+    {
+      "name": "kevin",
+      "email": "kevinbrito2012@gmail.com",
+      "password": "456@abc",
+      "id": 1
+    },
+    {
+      "name": "Letícia",
+      "email": "letspapa@gmail.com",
+      "password": "321!kka",
+      "id": 2
+    }
+  ]
+}

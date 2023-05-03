@@ -1,15 +1,15 @@
 {
-  "user": [
+  "users": [
     {
-      "name": "kevin",
-      "email": "kevinbrito2012@gmail.com",
+      "email": "kevinbrito2012@gmai.com",
+      "name": "Kevin",
       "password": "456@abc",
       "id": 1
     },
     {
-      "name": "Letícia",
       "email": "letspapa@gmail.com",
-      "password": "321!kka",
+      "password": "MySenha",
+      "name": "Letícia",
       "id": 2
     }
   ]

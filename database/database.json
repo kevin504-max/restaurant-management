@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "email": "kevinbrito2012@gmai.com",
+      "email": "kevinbrito2012@gmail.com",
       "name": "Kevin",
       "password": "456@abc",
       "id": 1
@@ -11,6 +11,12 @@
       "password": "MySenha",
       "name": "Letícia",
       "id": 2
+    },
+    {
+      "email": "letspapa@gmail.com",
+      "password": "MySenha",
+      "name": "Letícia",
+      "id": 3
     }
   ]
 }

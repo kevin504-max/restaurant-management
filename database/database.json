@@ -31,6 +31,18 @@
       "name": "KFC",
       "contact": 89898989,
       "address": "Delgi CP"
+    },
+    {
+      "name": "Ligeirinho",
+      "address": "rua de baixo",
+      "contact": 56569844,
+      "id": 4
+    },
+    {
+      "name": "a",
+      "address": "b",
+      "contact": "c",
+      "id": 5
     }
   ]
 }

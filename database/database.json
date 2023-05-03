@@ -21,12 +21,6 @@
       "address": "Noida sector 55"
     },
     {
-      "id": 2,
-      "name": "Dominos",
-      "contact": 32718247,
-      "address": "Gurgaon sector 20"
-    },
-    {
       "id": 3,
       "name": "KFC",
       "contact": 89898989,
@@ -37,12 +31,6 @@
       "address": "rua de baixo",
       "contact": 56569844,
       "id": 4
-    },
-    {
-      "name": "KiBurgao",
-      "contact": "Castelo Branco",
-      "address": "9745415187",
-      "id": 5
     }
   ]
 }

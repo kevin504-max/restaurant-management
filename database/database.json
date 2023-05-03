@@ -12,5 +12,25 @@
       "name": "Letícia",
       "id": 2
     }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "contact": 40028922,
+      "address": "Noida sector 55"
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "contact": 32718247,
+      "address": "Gurgaon sector 20"
+    },
+    {
+      "id": 3,
+      "name": "KFC",
+      "contact": 89898989,
+      "address": "Delgi CP"
+    }
   ]
 }
